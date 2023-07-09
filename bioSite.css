@@ -62,7 +62,7 @@ h3 {
 
 #logo {
   border-style: hidden;
-  border-radius: 75%;
+  box-shadow: 0 0 8px 8px purple; inset;
 } 
 
 .contents {
